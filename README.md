@@ -1,7 +1,11 @@
-UnitTesting
+#UnitTesting
 ===========
 
-worked examples of Unit Testing using both testthat and Runit
+Worked examples of R Unit Testing using:
+* testthat 
+* Runit
 
 Requires packages:
-testthat
+* testthat
+* RUnit
+
