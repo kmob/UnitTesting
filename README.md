@@ -10,9 +10,9 @@ Requires packages:
 * RUnit
 
 ## RUnit Documentation
-https://cran.r-project.org/web/packages/RUnit/RUnit.pdf
-https://cran.r-project.org/web/packages/RUnit/vignettes/RUnit.pdf
+* [package documentation](https://cran.r-project.org/web/packages/RUnit/RUnit.pdf)
+* [RUnit - A Unit Test Framework for R](https://cran.r-project.org/web/packages/RUnit/vignettes/RUnit.pdf)
 
 ## testthat Documenation
-https://cran.r-project.org/web/packages/testthat/testthat.pdf
-http://r-pkgs.had.co.nz/tests.html
+* [package documentation](https://cran.r-project.org/web/packages/testthat/testthat.pdf)
+* [R packages: Testing](http://r-pkgs.had.co.nz/tests.html)
